@@ -26,6 +26,7 @@ Designed to protect sensitive data while providing a smooth, Nextcloud-powered u
 ---
 
 ## 🏗️ High-Level Architecture  
+<img width="927" height="621" alt="image" src="https://github.com/user-attachments/assets/e5cd3bac-7b91-4989-bd85-b36e6130be5c" />
 
 
 **Flow:**  
